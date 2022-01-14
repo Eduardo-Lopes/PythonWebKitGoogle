@@ -4,7 +4,7 @@
 ## To Configure
 The demo is configured to run with python 3.8, but should work in any version:
 - Follow the instructions in [webextension](https://github.com/aperezdc/webkit2gtk-python-webextension-example) repository to install the dependencies
-- Follow the instructions in (**https://developers.google.com/sheets/api/quickstart/python**) to create the `credentials.json`
+- Follow the instructions in [Python Quickstart](https://developers.google.com/sheets/api/quickstart/python) to create the `credentials.json`
 ## To Run
 - To execute, just run:
 `./SheetDemo.sh http://docs.google.com/spreadsheets/d/<spreadsheetNumber>`
