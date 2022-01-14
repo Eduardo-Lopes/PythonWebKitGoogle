@@ -1,0 +1,3 @@
+[submodule "webkit2gtk-python-webextension-example"]
+	path = webkit2gtk-python-webextension-example
+	url = https://github.com/aperezdc/webkit2gtk-python-webextension-example
